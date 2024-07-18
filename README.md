@@ -1,2 +1,0 @@
-# Sepulveda.maestranza
-pagina web 
